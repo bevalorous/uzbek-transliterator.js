@@ -1,0 +1,27 @@
+{
+  "name": "uzbek-transliterator",
+  "version": "1.0.0",
+  "description": "Transliterate Cyrillic Uzbek text to Latin and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevalorous/uzbek-transliterator.js.git"
+  },
+  "keywords": [
+    "uzbek",
+    "cyrillic",
+    "latin",
+    "transliterate",
+    "trasliteration",
+    "transliterator"
+  ],
+  "author": "Vadim Belorussov <belorussov.vadim@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bevalorous/uzbek-transliterator.js/issues"
+  },
+  "homepage": "https://github.com/bevalorous/uzbek-transliterator.js#readme"
+}
